@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="2D_Mario"
+config/name="MARIO"
 config/icon="res://icon.png"
 
 [gui]
