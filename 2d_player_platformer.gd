@@ -23,3 +23,5 @@ func _physics_process(delta):
 
 func reset_velocity():
 	velocity = Vector2.ZERO
+
+
